@@ -2,9 +2,9 @@
 ####  Full-Stack Developer | Open-Source Contributor
 ![ Full-Stack Developer | Open-Source Contributor](https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg)
 
-Hey, I am Md Monir Hossion. Full-Stack Developer | React, Tailwind CSS, Node.js, Express.js | MongoDB & MySQL | Open-Source Contributor
+Hey, I am Md Monir Hossion. Full-Stack Developer | React, Tailwind CSS, Node.js,Typescript, Express.js | MongoDB & MySQL | Open-Source Contributor
 
-Skills: MongoDB / MySQL/Node.js/Express.js / REACT / JS / HTML / CSS/Tailwind CSS
+Skills: Next.js/Node.js/Typescript/Docker/Prisma/MongoDB/PostgreMySQL/Node.js/Express.js / REACT / JS / HTML / CSS/Tailwind CSS
 
 - 🔭 I’m currently working on Building full-stack MERN web applications, focusing on responsive UI, REST APIs, and real-world projects using React, Node.js, and MongoDB. 
 - 🌱 I’m currently learning Advanced React patterns, backend optimization with Node.js, and improving database performance with MongoDB & MySQL. 
