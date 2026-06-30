@@ -1,44 +1,142 @@
-### Hi there 👋, Md Monir Hossion 
-####  Full-Stack Developer | Open-Source Contributor
-![ Full-Stack Developer | Open-Source Contributor](https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg)
+<div align="center">
 
-Hey, I am Md Monir Hossion. Full-Stack Developer | React, Tailwind CSS, Node.js,Typescript, Express.js | MongoDB & MySQL | Open-Source Contributor
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=200&section=header&text=Md%20Monir%20Hossion&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20|%20MERN%20%2B%20Next.js&descAlignY=58&descSize=18" />
 
-Skills: Next.js/Node.js/Typescript/Docker/Prisma/MongoDB/PostgreMySQL/Node.js/Express.js / REACT / JS / HTML / CSS/Tailwind CSS
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Monir+👋;Full+Stack+Web+Developer;MERN+Stack+%7C+Next.js+%7C+TypeScript;Open+to+Job+Opportunities+🚀" alt="Typing SVG" />
 
-- 🔭 I’m currently working on Building full-stack MERN web applications, focusing on responsive UI, REST APIs, and real-world projects using React, Node.js, and MongoDB. 
-- 🌱 I’m currently learning Advanced React patterns, backend optimization with Node.js, and improving database performance with MongoDB & MySQL. 
-- 👯 I’m looking to collaborate on Open-source projects, MERN stack applications, and innovative web development ideas. 
-- 🤔 I’m looking for help with Scaling full-stack applications, system design, and best practices in production-ready backend architecture. 
-- 💬 Ask me about HTML, CSS, Tailwind CSS, React, JavaScript, Node.js, MongoDB, MySQL, and full-stack web development. 
-- 📫 How to reach me: 📧 Email: mdmonirhossion2002@gmail.com 
-- 😄 Pronouns: He / Him 
-- ⚡ Fun fact: I enjoy turning complex problems into simple, clean, and scalable code 🚀 
+<br/>
 
+<a href="https://mdmonirhossion.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/monirhossion/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/mdmonirhossion" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://x.com/Md22664Monir" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/md.monirhossion.2002" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/monirhossion3572" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/mdmonir72/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdmonirhossion)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/md_monirhossion_c600946e)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-monir-hossion-6b1783301//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/md.monirhossion.2002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/monirhossion3572//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/Md22664Monir)  
+</div>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+<br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mdmonirhossion)](https://github.com/ryo-ma/github-profile-trophy)
+## 🧑‍💻 About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmonirhossion)](https://github.com/anuraghazra/github-readme-stats)
+```yaml
+name: Md Monir Hossion
+role: Full Stack Web Developer (MERN / Next.js)
+location: Bangladesh 🇧🇩
+currently_learning: Artificial Intelligence
+status: Open to Job Opportunities & Freelance Work
+mission: Building fast, accessible, and scalable web products
+```
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmonirhossion&show_icons=true&count_private=true)  
+- 🔭 Currently building production-ready apps with **React, Next.js & Node.js**
+- 🌱 Currently learning **Artificial Intelligence**
+- 💼 **Actively looking for job opportunities** — open to remote/onsite roles
+- ⚡ Strong foundation in **DSA & Problem Solving** (check my LeetCode!)
+- 🤝 Open to collaborating on open-source & freelance projects
+- 📫 Reach me anytime — I respond fast
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mdmonirhossion/contributions?format=svg&private=true)  
+---
 
-![GitHub metrics](https://metrics.lecoq.io/mdmonirhossion)  
+## 🧰 Tech Stack
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mdmonirhossion)  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmonirhossion&label=Profile%20views&color=0e75b6&style=flat" alt="mdmonirhossion" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,sqlite,php,java,python,html,css,tailwind,bootstrap,git,github,vscode,figma,vercel,netlify,postman&theme=dark" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmonirhossion" alt="mdmonirhossion" /></a> </p>
+<details>
+<summary><b>📋 Detailed Skills Breakdown</b></summary>
+<br/>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+**Languages:** JavaScript, TypeScript, Python, Java, PHP  
+**Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap  
+**Backend:** Node.js, Express.js, REST APIs  
+**Database:** MongoDB, MySQL, SQLite  
+**Auth & Tools:** JWT, Firebase, Clerk  
+**DevOps/Hosting:** Git, GitHub, Vercel, Netlify  
+**Currently Exploring:** Artificial Intelligence, System Design
 
+</details>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdmonirhossion&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmonirhossion&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdmonirhossion&theme=tokyo-night&hide_border=true&area=true" width="55%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmonirhossion&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdmonirhossion&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <i>📌 Pinned repositories are showcased below — each one reflects real-world problem solving and clean code practices.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mdmonirhossion?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-2C5364?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💼 Hiring Me?
+
+> I'm a dedicated MERN Stack / Full Stack Developer actively looking for new opportunities. I write clean, maintainable code, learn fast, and care about shipping products that work well for real users.
+
+<p align="center">
+  <a href="mailto:mdmonirhossion2002@gmail.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-Send%20an%20Email-success?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://mdmonirhossion.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Resume%20%2F%20Portfolio-2C5364?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+<img src="https://komarev.com/ghpvc/?username=mdmonirhossion&label=Profile%20Views&color=2C5364&style=flat" />
+<a href="https://github.com/mdmonirhossion?tab=followers">
+  <img src="https://img.shields.io/github/followers/mdmonirhossion?label=Followers&style=social" />
+</a>
+<a href="https://github.com/mdmonirhossion/mdmonirhossion">
+  <img src="https://img.shields.io/github/stars/mdmonirhossion?style=social" />
+</a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=120&section=footer" />
+
+</div>
